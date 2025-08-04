@@ -629,33 +629,3 @@
 }
 #u7.disabled {
 }
-#u8_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:45px;
-  height:45px;
-}
-#u8 {
-  border-width:0px;
-  position:absolute;
-  left:1137px;
-  top:1000px;
-  width:45px;
-  height:45px;
-  display:flex;
-}
-#u8 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u8_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
